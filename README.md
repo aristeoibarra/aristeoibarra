@@ -3,11 +3,11 @@
 
 - 🔭 I'm currently working as a **Freelance**
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my projects are available at [https://www.aristeoibarra.com](https://www.aristeoibarra.com)
 
-- 💬 Ask me about **React | React Native | Javascript/Typescript | Express**
+- 💬 Ask me about **PHP | React | React Native | Javascript/Typescript | Express**
 
 - 📫 How to reach me **aristeoibarra608@gmail.com**
 
